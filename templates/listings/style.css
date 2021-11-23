@@ -1,0 +1,14 @@
+.center{
+	text-align: center;
+}
+
+.brand{
+	color: green;
+}
+
+.main-list li{
+	font-family: monospace;
+	font-style: oblique;
+	font-size: 15px;
+	background: green;
+}
