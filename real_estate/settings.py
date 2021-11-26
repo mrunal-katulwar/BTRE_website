@@ -25,8 +25,8 @@ SECRET_KEY = 'django-insecure-&#)u#yj_q8a4=i@y))9r6^*^(=&ruj0saq*sa+cj)yc&ht044f
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://btre-website.herokuapp.com', 'localhost', '127.0.0.1']
-# ALLOWED_HOSTS = ['*']
+# ALLOWED_HOSTS = ['https://btre-website.herokuapp.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
